@@ -1,0 +1,21 @@
+.venv
+/.venv
+/__pycache__
+/.vscode    
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints
+/mlruns
+/1-MLProject
+/.DS_Store
+/2-DLMLFLOW
+/mlartifacts
+mlflow.db
